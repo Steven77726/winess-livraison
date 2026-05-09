@@ -1,0 +1,18 @@
+{
+  "name": "Winess Livraison",
+  "short_name": "Winess",
+  "description": "Gestion synchronisée des livraisons Winess.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#090608",
+  "theme_color": "#13070a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
